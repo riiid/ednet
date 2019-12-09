@@ -1,6 +1,6 @@
 # EdNet
 
-> Paper : 
+> Paper : https://arxiv.org/abs/1912.03072
 
 *EdNet* is the dataset of all student-system interactions collected over 2 years by *Santa*, a multi-platform AI tutoring service with more than 780K users in Korea available through Android, iOS and web.
 
@@ -31,7 +31,7 @@ As we said, there are four datasets named KT1, KT2, KT3, and KT4 with different 
 - EdNet-KT2 : [bit.ly/ednet-kt2](http://bit.ly/ednet-kt2)
 - EdNet-KT3 : [bit.ly/ednet-kt3](http://bit.ly/ednet-kt3)
 - EdNet-KT4 : [bit.ly/ednet-kt4](http://bit.ly/ednet-kt4)
-- Contents : [bit.ly/ednet-contents](http://bit.ly/ednet-contents)
+- Contents : [bit.ly/ednet-content](http://bit.ly/ednet-content)
 
 ### KT1
 > Download a `.zip` file from [bit.ly/ednet-kt1](http://bit.ly/ednet-kt1)
@@ -188,13 +188,13 @@ In EdNet-KT4, a complete list of actions collected by *Santa* is provided. In pa
 | 1358114842195 | quit              | e878     | sprint        |              |              | mobile   |
 
 ### Contents
-> Download a `.zip` file from [bit.ly/ednet-contents](http://bit.ly/ednet-contents)
+> Download a `.zip` file from [bit.ly/ednet-content](http://bit.ly/ednet-content)
 
 |Specification| |
 |----|---|
-| Size of the compressed file | 10.1MB |
-| Size of the uncompressed file | 2.9MB |
-| The number of files | 6 |
+| Size of the compressed file | 0.6MB |
+| Size of the uncompressed file | 0.1MB |
+| The number of files | 4 |
  
 There are four types of contents that *Santa* serves to students: *questions*, *lectures*, *payment items*, and *coupons*.
 
