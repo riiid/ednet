@@ -196,7 +196,8 @@ In EdNet-KT4, a complete list of actions collected by *Santa* is provided. In pa
 | Size of the uncompressed file | 0.1MB |
 | The number of files | 4 |
  
-There are four types of contents that *Santa* serves to students: *questions*, *lectures*, *payment items*, and *coupons*.
+There are five types of contents that *Santa* serves to students: *questions*, *lectures*, *payment items*, *coupons*, and *scores*.
+> *scores* not released yet. It will be released later.
 
 #### Questions
 Question information table contains 7 columns: ``question_id``, ``bundle_id``, ``explanation_id``, ``correct_answer``, ``part``, ``tags``, ``deployed_at``. 
@@ -270,6 +271,10 @@ Coupon information table consists of 3 columns: `coupon_id`, `coupon_type`, and 
 | c17       | type-2      | 432000000   |
 | c18       | type-3      | 1000000     |
 | c19       | type-3      | 36000000    |
+
+
+#### Scores
+To be released.
 
 ## Contact
 If you have any questions or find any issues, please contact research@riiid.co.
