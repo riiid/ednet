@@ -27,14 +27,14 @@ As we said, there are four datasets named KT1, KT2, KT3, and KT4 with different 
 * The whole dataset is divided by students: `{user_id}.csv` only contains `{user_id}`'s interactions. 
 * The timestamps are different from the real values, which are modified (shifted by fixed values) due to security issues.
 ### Download links
-- EdNet-KT1 : [bit.ly/ednet-kt1](http://bit.ly/ednet-kt1)
+- EdNet-KT1 : [bit.ly/ednet-kt1-v2](http://bit.ly/ednet-kt1-v2)
 - EdNet-KT2 : [bit.ly/ednet-kt2](http://bit.ly/ednet-kt2)
 - EdNet-KT3 : [bit.ly/ednet-kt3](http://bit.ly/ednet-kt3)
 - EdNet-KT4 : [bit.ly/ednet-kt4](http://bit.ly/ednet-kt4)
 - Contents : [bit.ly/ednet-content](http://bit.ly/ednet-content)
 
 ### KT1
-> Download a `.zip` file from [bit.ly/ednet-kt1](http://bit.ly/ednet-kt1)
+> Download a `.zip` file from [bit.ly/ednet-kt1-v2](http://bit.ly/ednet-kt1-v2)
 
 |Specification| |
 |----|---|
@@ -197,7 +197,7 @@ In EdNet-KT4, a complete list of actions collected by *Santa* is provided. In pa
 | The number of files | 4 |
  
 There are five types of contents that *Santa* serves to students: *questions*, *lectures*, *payment items*, *coupons*, and *scores*.
-> *scores* not released yet. It will be released later.
+> *scores* are not released yet. It will be released later.
 
 #### Questions
 Question information table contains 7 columns: ``question_id``, ``bundle_id``, ``explanation_id``, ``correct_answer``, ``part``, ``tags``, ``deployed_at``. 
