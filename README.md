@@ -27,14 +27,14 @@ As we said, there are four datasets named KT1, KT2, KT3, and KT4 with different 
 * The whole dataset is divided by students: `{user_id}.csv` only contains `{user_id}`'s interactions. 
 * The timestamps are different from the real values, which are modified (shifted by fixed values) due to security issues.
 ### Download links
-- EdNet-KT1 : [bit.ly/ednet-kt1-v2](http://bit.ly/ednet-kt1-v2)
+- EdNet-KT1 : [bit.ly/ednet_kt1](http://bit.ly/ednet_kt1)
 - EdNet-KT2 : [bit.ly/ednet-kt2](http://bit.ly/ednet-kt2)
 - EdNet-KT3 : [bit.ly/ednet-kt3](http://bit.ly/ednet-kt3)
 - EdNet-KT4 : [bit.ly/ednet-kt4](http://bit.ly/ednet-kt4)
 - Contents : [bit.ly/ednet-content](http://bit.ly/ednet-content)
 
 ### KT1
-> Download a `.zip` file from [bit.ly/ednet-kt1-v2](http://bit.ly/ednet-kt1-v2)
+> Download a `.zip` file from [bit.ly/ednet_kt1](http://bit.ly/ednet_kt1)
 
 |Specification| |
 |----|---|
