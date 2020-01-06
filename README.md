@@ -2,6 +2,8 @@
 
 > Paper : https://arxiv.org/abs/1912.03072
 
+> Leaderboard : [Link](http://ednet-leaderboard.s3-website-ap-northeast-1.amazonaws.com/)
+
 *EdNet* is the dataset of all student-system interactions collected over 2 years by *Santa*, a multi-platform AI tutoring service with more than 780K users in Korea available through Android, iOS and web.
 
 
