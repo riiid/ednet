@@ -174,20 +174,20 @@ In EdNet-KT4, a complete list of actions collected by *Santa* is provided. In pa
     
 #### Example
 
-| timestamp     | action\_type      | item\_id | source | user\_answer | cursor\_time | platform |
+| timestamp     | action\_type      | item\_id | cursor\_time |source | user\_answer | platform |
 |---------------|-------------------|----------|--------|--------------|--------------|----------|
 | 1358114668713 | pay               | p25      |        |              |              | mobile   |
-| 1358114691713 | enter             | b878     | sprint |              |              | mobile   |
-| 1358114701104 | text\_enter       | q878     | sprint |              |              | mobile   |
-| 1358114712364 | play\_audio       | q878     | sprint |            | 0             | mobile   |
-| 1358114729868 | pause\_audio      | q878     | sprint |        | 10000             | mobile   |
-| 1358114745592 | eliminate\_choice | q878     | sprint | a             |             | mobile   |
-| 1358114748023 | respond           | q878     | sprint | c             |             | mobile   |
-| 1358114748781 | submit            | b878     | sprint       |              |              | mobile   |
-| 1358114751032 | enter             | e878     | sprint    |              |              | mobile   |
-| 1358114779211 | play\_audio       | e878     | sprint        |            |   0           | mobile   |
-| 1358114792300 | pause\_audio      | e878     |sprint |          |    8000          | mobile   |
-| 1358114842195 | quit              | e878     | sprint        |              |              | mobile   |
+| 1358114691713 | enter             | b878     | |sprint |                            | mobile   |
+| 1358114701104 | text\_enter       | q878     | |sprint |                            | mobile   |
+| 1358114712364 | play\_audio       | q878     | 0 |sprint |                         | mobile   |
+| 1358114729868 | pause\_audio      | q878     | 10000|sprint |                   | mobile   |
+| 1358114745592 | eliminate\_choice | q878     | |sprint | a                      | mobile   |
+| 1358114748023 | respond           | q878     | |sprint | c                       | mobile   |
+| 1358114748781 | submit            | b878     | |sprint       |                         | mobile   |
+| 1358114751032 | enter             | e878     | |sprint    |                            | mobile   |
+| 1358114779211 | play\_audio       | e878     | 0|sprint        |                       | mobile   |
+| 1358114792300 | pause\_audio      | e878     | 8000|sprint |                   | mobile   |
+| 1358114842195 | quit              | e878     | |sprint        |                      | mobile   |
 
 ### Contents
 > Download a `.zip` file from [bit.ly/ednet-content](http://bit.ly/ednet-content)
